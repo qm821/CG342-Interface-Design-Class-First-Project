@@ -2,6 +2,8 @@ body{
     background-color:lavender;
 }
 
+/* typography */
+
 h1{
     font-size: 40px;
     color:steelblue;
@@ -13,4 +15,13 @@ p{
     font-size: 16px;
     color:sienna;
     font-family: 'Voces', cursive;
+}
+
+.button-links{
+    border-style: solid;
+    border-color:darkblue;
+    background-color:indigo;
+    border-width: 2px;
+    text-decoration: none;
+    color:white;
 }
