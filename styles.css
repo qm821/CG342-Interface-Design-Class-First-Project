@@ -24,4 +24,26 @@ p{
     border-width: 2px;
     text-decoration: none;
     color:white;
+    border-radius: 12px;
+    padding: 4px;
+    display:block;
+    width:180px;
+    text-align:center;
+    margin-top: 15px;
+
+}
+
+.button-alert{
+    border-style: dashed;
+    border-color:indigo;
+    background-color:darkseagreen;
+    border-width: 3px;
+    text-decoration: none;
+    color:aliceblue;
+    border-radius: 12px;
+    padding: 4px;
+    display:block;
+    width:180px;
+    text-align:center;
+    margin-top: 15px;
 }
