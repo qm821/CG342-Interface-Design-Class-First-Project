@@ -84,6 +84,7 @@ nav{
     background-image: url("https://rare-gallery.com/mocahbig/1349658-Honkai-Star-Rail-HD-Wallpaper.jpg");
     background-color:lightcyan;
     background-size: cover;
+    background-attachment: fixed;
 }
 
 .main-content{
