@@ -19,8 +19,8 @@ p{
 
 .button-link{
     border-style: solid;
-    border-color:fuchsia;
-    background-color:indigo;
+    border-color:mistyrose;
+    background-color:plum;
     border-width: 2px;
     text-decoration: none;
     color:white;
@@ -35,8 +35,8 @@ p{
 
 .button-alert{
     border-style: dashed;
-    border-color:indigo;
-    background-color:darkseagreen;
+    border-color:snow;
+    background-color:powderblue;
     border-width: 3px;
     text-decoration: none;
     color:aliceblue;
