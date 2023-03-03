@@ -48,6 +48,18 @@ p{
     margin-top: 15px;
 }
 
+nav{
+    padding: 20px;
+}
+
+.nav-ilnks{
+    list-style-type: none;
+}
+
+.nav-ilnks li{
+    display: inline;
+}
+
 .top-banner{
     height: 240px;
     text-align: center;
