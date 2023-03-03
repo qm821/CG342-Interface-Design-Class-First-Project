@@ -52,7 +52,7 @@ nav{
     padding: 20px;
 }
 
-.nav-ilnks {
+.nav-ilnks{
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -60,6 +60,11 @@ nav{
 
 .nav-ilnks li{
     display: inline;
+}
+
+.nav-links li a{
+    padding-left: 10px;
+    padding-right: 5px;
 }
 
 .top-banner{
