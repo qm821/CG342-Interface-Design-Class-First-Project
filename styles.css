@@ -52,7 +52,7 @@ nav{
     padding: 20px;
 }
 
-.nav-ilnks{
+.nav-links{
     list-style-type: none;
     text-align: center;
     margin: 0 auto;
@@ -60,7 +60,7 @@ nav{
     padding: 0;
 }
 
-.nav-ilnks li{
+.nav-links li{
     display: inline;
 }
 
