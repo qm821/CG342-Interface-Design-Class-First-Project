@@ -40,8 +40,8 @@ p{
 
 .button-alert{
     border-style: dashed;
-    border-color:cornsilk;
-    background-color:powderblue;
+    border-color:powderblue;
+    background-color:steelblue;
     border-width: 3px;
     text-decoration: none;
     color:aliceblue;
@@ -57,7 +57,7 @@ nav{
     padding: 20px;
     position:fixed;
     width: 100%;
-    background-color:mediumturquoise;
+    background-color:rgb(228, 130, 207);
 }
 
 .nav-links{
