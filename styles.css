@@ -130,6 +130,8 @@ footer{
         color:rgb(28, 29, 80);
         background-color: aliceblue;
         margin:0 20px;
+
+        -webkit-text-stroke-width: 0px;
     }
 
     h2{
