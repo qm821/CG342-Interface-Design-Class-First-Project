@@ -118,6 +118,14 @@ footer{
     background-attachment: fixed;
 }
 
+img{
+    width:100%;
+}
+
+.article-image{
+    width:300px;
+}
+
 /*mobile styles*/
 
 @media screen and (max-width: 600px) {
