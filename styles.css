@@ -13,6 +13,8 @@ h1{
     font-size: 60px;
     color:steelblue;
     font-family: 'Kanit', sans-serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: #f8f5e7;
 }
 
 h2{
